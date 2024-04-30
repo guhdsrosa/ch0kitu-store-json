@@ -1,0 +1,77 @@
+[
+   {
+      "titulo": "Harley Quinn",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Lucy - Cyberpunk",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "2b - Nier Automata",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Cammy - Street Fighter",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Goku - Dragon Ball",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Sukuna - Jujutsu Kaisen",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "D.Vivi - One Piece",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Obito - Naruto",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Pain - Naruto",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Ichigo - Bleach",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Luffy - One Piece",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Manjiro - Tokyo Revengers",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Sakura - Naruto",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Ranni - Elden Ring",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   },
+   {
+      "titulo": "Elf demon girl",
+      "descricao": "Este é um exemplo de como estruturar um JSON com título, descrição e URL de imagem.",
+      "urlImagem": "https://example.com/imagem.jpg"
+   }
+]
