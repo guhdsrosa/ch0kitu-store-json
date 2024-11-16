@@ -1,8 +1,8 @@
 [
    {
       "id": 1,
-      "titulo": "Harley Quinns",
-      "urlImage": "./imgs/harley.gif",
+      "titulo": "Harley Quinn",
+      "urlImage": "https://i.imgur.com/gPxStXi.gif",
       "background": "https://drive.google.com/drive/folders/14XcFlnjWP5bwF4CejQ4bMV2kOpinlvjg?usp=drive_link",
       "only": "https://drive.google.com/drive/folders/14S3cP0fNhCNdXSCQ3KKTh0QgmKSN41Tz?usp=drive_link",
       "steamBackground": "https://steamcommunity.com/market/listings/753/1098340-Synthwave"
