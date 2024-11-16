@@ -4,28 +4,32 @@
       "titulo": "Harley Quinn",
       "urlImage": "https://i.imgur.com/CGsioc0.gif",
       "background": "https://drive.google.com/drive/folders/14XcFlnjWP5bwF4CejQ4bMV2kOpinlvjg?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/14S3cP0fNhCNdXSCQ3KKTh0QgmKSN41Tz?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/14S3cP0fNhCNdXSCQ3KKTh0QgmKSN41Tz?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/1098340-Synthwave"
    },
    {
       "id": 2,
       "titulo": "Lucy - Cyberpunk",
       "urlImage": "https://i.imgur.com/PwTj3K0.gif",
       "background": "https://drive.google.com/drive/folders/14qUFsDsFDIIEO6ox_J1Jc3dyv4Apk6Zu?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/14phN2CR0jBPuNqEn532EHX2pXraxkFKW?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/14phN2CR0jBPuNqEn532EHX2pXraxkFKW?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/1233570-Theme%20III"
    },
    {
       "id": 3,
       "titulo": "2b - Nier Automata",
       "urlImage": "https://i.imgur.com/phJCTt3.gif",
       "background": "https://drive.google.com/drive/folders/12SbpPAnbtd-vcKRXUmfce7sdAgWPrEvg?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/12LWh_R5n3-n5z7Gh12t5rhIRqqzBylKh?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/12LWh_R5n3-n5z7Gh12t5rhIRqqzBylKh?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/799070-Red%20Clouds"
    },
    {
       "id": 4,
       "titulo": "Cammy - Street Fighter",
       "urlImage": "https://i.imgur.com/JrTnmE1.gif",
       "background": "https://drive.google.com/drive/folders/13-k7Vvz8e6iQcQqwWJOk9eUue2KH2QvN?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/12zr2eIqibtej1UpxrbelS_dPeIJV5wog?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/12zr2eIqibtej1UpxrbelS_dPeIJV5wog?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/1222680-Theme%20II"
    },
    {
       "id": 5,
@@ -40,62 +44,71 @@
       "titulo": "Sukuna - Jujutsu Kaisen",
       "urlImage": "https://i.imgur.com/iYEuToA.gif",
       "background": "https://drive.google.com/drive/folders/14kC0PuqhwyG3qpOhoCBA-0BWY9aCMaKs?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/14epjWlSQWMKfHzuT8crBMCgrNoP8jmfd?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/14epjWlSQWMKfHzuT8crBMCgrNoP8jmfd?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/1218900-Universe%20%5BDark%5D"
    },
    {
       "id": 8,
       "titulo": "Obito - Naruto",
       "urlImage": "https://i.imgur.com/hiL4cFK.gif",
       "background": "https://drive.google.com/drive/folders/110PGF7WEsjqr060iRbuha_Q8p9piND7U?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/10zFCilqcDz7pQjfNFrLWORvuxm0Z40oD?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/10zFCilqcDz7pQjfNFrLWORvuxm0Z40oD?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/799070-Red%20Clouds"
    },
    {
       "id": 9,
       "titulo": "Pain - Naruto",
       "urlImage": "https://i.imgur.com/B7tJRms.gif",
       "background": "https://drive.google.com/drive/folders/11QDmUg4pjr6tvL1Cz589XVlzxcAwd3km?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/11P7LaJVuvzmnPraxr-6_e94mNlNIMiTk?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/11P7LaJVuvzmnPraxr-6_e94mNlNIMiTk?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/325120-Cloudy%20Moonlit%20Night"
    },
    {
       "id": 10,
       "titulo": "Ichigo - Bleach",
       "urlImage": "https://i.imgur.com/Vba6Yiw.gif",
       "background": "https://drive.google.com/drive/folders/15Js66nz_nv8Ry_uTy3ppJ5YZqRQWSs7N?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/15H5IedvmxdcMhI3nnadNizJmlMCUtJkS?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/15H5IedvmxdcMhI3nnadNizJmlMCUtJkS?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/617670-Drawn%20blue%20clouds"
    },
    {
       "id": 11,
       "titulo": "Luffy - One Piece",
       "urlImage": "https://i.imgur.com/KQ7Hlps.gif",
       "background": "https://drive.google.com/drive/folders/15-7pbtJqD5eNMamaahKqKFjhuE5qlNuj?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/14zbGyIGsb7EHY-Oo37ZNWmGQax9fxKk-?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/14zbGyIGsb7EHY-Oo37ZNWmGQax9fxKk-?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/908050-Beach%20Side"
    },
    {
       "id": 12,
       "titulo": "Manjiro - Tokyo Revengers",
       "urlImage": "https://i.imgur.com/4Mjytwr.gif",
       "background": "https://drive.google.com/drive/folders/1zBgcMYVP5cd3HbVqzsXAAbp6aFKEPsTI?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/1db1eQ_i5Co8D63J8aVppJgfLzXUmBzYt?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/1db1eQ_i5Co8D63J8aVppJgfLzXUmBzYt?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/856370-%E5%8D%88%E5%90%8E%E7%9A%84%E5%95%86%E4%B8%9A%E8%A1%97"
    },
    {
       "id": 13,
       "titulo": "Sakura - Naruto",
       "urlImage": "https://i.imgur.com/NdERK88.gif",
       "background": "https://drive.google.com/drive/folders/10pnfMrE0JYXn2B71__KhHJCs6S9MZOA7?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/10Kbtr1sHzEoe4Z4ExdLoqz8nqXAA1Kyt?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/10Kbtr1sHzEoe4Z4ExdLoqz8nqXAA1Kyt?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/455120-Lost"
    },
    {
       "id": 14,
       "titulo": "Ranni - Elden Ring",
       "urlImage": "https://i.imgur.com/Pc6RZth.gif",
       "background": "https://drive.google.com/drive/folders/11WmFlIAWj3IaVXgpUVwdGvrFFRz0jMe2?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/11RrL24AuXAMIOL8d9saRgSiwJY1NJvaQ?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/11RrL24AuXAMIOL8d9saRgSiwJY1NJvaQ?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/508900-Blue%20Clouds"
    },
    {
       "id": 15,
       "titulo": "Elf demon girl",
       "urlImage": "https://i.imgur.com/IQOSVIN.gif",
       "background": "https://drive.google.com/drive/folders/13_abZZGkJK8iHT_jA-pIGEb1PEfdu51E?usp=drive_link",
-      "only": "https://drive.google.com/drive/folders/13WXC8lU0MA_4oLzU4tVlPN7kLBL0GHBG?usp=drive_link"
+      "only": "https://drive.google.com/drive/folders/13WXC8lU0MA_4oLzU4tVlPN7kLBL0GHBG?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/262390-Cloudbuilt%20-%20Dawn"
    }
 ]
