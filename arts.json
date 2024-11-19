@@ -1,5 +1,13 @@
 [
    {
+      "id": 15,
+      "titulo": "Eto Yoshimura - Tokyo Ghoul",
+      "urlImage": "https://i.imgur.com/p9Fhh5v.gif",
+      "background": "https://drive.google.com/drive/folders/1cMB_a52ZaCCezuceaT2HyiFiQWTXxZew?usp=drive_link",
+      "only": "https://drive.google.com/drive/folders/1eHE2gag_CP_KKcv8gMgtanLczoQAK-aR?usp=drive_link",
+      "steamBackground": "https://steamcommunity.com/market/listings/753/795100-Bloodbath"
+   },
+   {
       "id": 1,
       "titulo": "Ranni - Elden Ring",
       "urlImage": "https://i.imgur.com/PPGwaQF.gif",
